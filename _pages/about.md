@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A bit about me"
+title: "A Bit About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,6 +13,10 @@ Hi there! I'm a computer science graduate students whose interests lie at the in
 Research Labs
 ======
 I've had the privelage to work with Professors Przemek Grabowicz and Erik Learned-Miller of the Knowledge Discovery and Computer Vision Labs respectively. 
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
 
 Getting started
 ======
