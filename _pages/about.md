@@ -14,9 +14,9 @@ Research Labs
 ======
 I've had the privelage to work with Professors Przemek Grabowicz and Erik Learned-Miller of the Knowledge Discovery and Computer Vision Labs respectively. 
 
-Solarized dark             |  Solarized Ocean
+Knowledge Discovery Lab    |  Computer Vision Lab
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![](https://bit.ly/3DiYG4Z)  |  ![](https://bit.ly/3wzRq0w)
 
 Getting started
 ======
