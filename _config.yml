@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Stephen Scarano"
   avatar           : "stephen_pic.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Graduate student and researcher at the University of Massachusetts, Amherst, with a focus in Computer Vision and Machine Learning"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
