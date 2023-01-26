@@ -12,11 +12,11 @@ Hi there! I'm a computer science graduate students whose interests lie at the in
 
 Research Labs
 ======
-I've had the privelage to work with Professors Przemek Grabowicz and Erik Learned-Miller of the Knowledge Discovery and Computer Vision Labs respectively. 
+I've had the privelage to work with Professors Przemek Grabowicz and Erik Learned-Miller of the **Knowledge Discovery** and **Computer Vision** Labs respectively. 
 
 Knowledge Discovery Lab    |  Computer Vision Lab
 :-------------------------:|:-------------------------:
-![](https://bit.ly/3DiYG4Z)  |  ![](https://bit.ly/3wzRq0w)
+![KDL](https://bit.ly/3DiYG4Z)  |  ![CV](https://bit.ly/3wzRq0w)
 
 Getting started
 ======
