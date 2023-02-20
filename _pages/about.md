@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm a computer science graduate student whose interests lie at the intersection of deep and traditional machine learning methodologies. 
+Hi there! I'm a computer science graduate student whose interests lie at the intersection of deep and traditional machine learning methodologies. A background in both Computer Vision and Responsible AI teaches one to make the best of both.
 
 Research Labs
 ------

@@ -11,30 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of Massachusetts, Amherst, 2021
+* M.S. in Computer Science [Concentration in Data Science], University of Massachusetts, Amherst, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* [2020 – Current]: Research Assistant
+  * University of Massachusetts, Amherst
+  * Conducted research concerning Astroturfing on social media, eventually published as an honors thesis and continued to an ISCWM submission (expected). Supervised by Professor Przemek Grabowicz
+  * Supervisor: Professor Przemek Grabowicz
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+  * Submitted paper to CVPR [in-review] concerning camera-motion estimation in dynamic settings.
+  * Supervisor: Supervised by Professor Erik Learned-Miller 
+
+* [2021 – Current]: Course Assistant
+  * University of Massachusetts, Amherst
+  * Duties included: Experience in proctoring labs, tutoring, and developing course material for
+    * COMPSCI 690F: Responsible AI,
+    * COMPSCI 230: Symstems Principles
+    * COMPSCI 121: Problem Solving with Computers
+  * Supervisors: Professor Przemek Grabowicz, Professor Joe Chiu 
+
+* [Summer 2019] Data Visualization Internship 
+  * Massachusetts Institute of Technology
+  * Duties included: Programmed functions to visualize oceanographic data.
+  * Superivsors: Christopher Hill
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Vision
+  * Optical Flow
+  * 3D-Scene Understanding, Graphics
+* Machine Learning
+  * Deep and Traditional Methods
+  * Responsible AI
+* Programming Languages
+  * Python, R
+  * C, C++, C#
+  * Java, Javascript
+* Writing
 
 Publications
 ======
