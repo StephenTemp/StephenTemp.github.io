@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, University of Massachusetts, Amherst, 2021
-* M.S. in Computer Science [Concentration in Data Science], University of Massachusetts, Amherst, 2023 (expected)
+* **B.S.** in Computer Science, University of Massachusetts, Amherst, 2021
+* **M.S.** in Computer Science [Concentration in Data Science], University of Massachusetts, Amherst, 2023 (expected)
 
 Work experience
 ======
@@ -27,9 +27,9 @@ Work experience
 * **\[2021 – Current\]: Course Assistant**
   * University of Massachusetts, Amherst
   * Duties included: Experience in proctoring labs, tutoring, and developing course material for
-    * COMPSCI 690F: Responsible AI,
-    * COMPSCI 230: Symstems Principles
-    * COMPSCI 121: Problem Solving with Computers
+    * **COMPSCI 690F**: _Responsible AI_
+    * **COMPSCI 230**: _Symstems Principles_
+    * **COMPSCI 121**: _Problem Solving with Computers_
   * Supervisors: Professor Przemek Grabowicz, Professor Joe Chiu 
 
 * **\[Summer 2019\] Data Visualization Internship**
