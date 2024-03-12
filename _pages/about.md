@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "About"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,7 +22,7 @@ I've had the privilege to work with Professors Przemek Grabowicz and Erik Learne
 
 Education
 -----
-I received my Bachelor's degree in Computer Science at the University of Massachusetts, Amherst, in tandem with the commonwealth honors college. Now, I'm grateful to be a [Bay state Fellow](https://www.cics.umass.edu/content/bay-state-scholarship-program) and computer science masters student at UMass Amherst on track for a Spring 2023 graduation. 
+I received my Master's and Bachelor's degree in Computer Science at the University of Massachusetts, Amherst, in tandem with the commonwealth honors college. Now, I'm grateful to be a [Bay state Fellow](https://www.cics.umass.edu/content/bay-state-scholarship-program) and computer science masters student at UMass Amherst on track for a Spring 2023 graduation. 
 
 Credit to Site Template
 ------
