@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpeg"
   name             : "Stephen Scarano"
   pronouns         : # example: "she/her"  
-  bio              : "Data Scientist with Interests in Artifical Intelligence"
+  bio              : "Data Scientist (M.S) with Interests in Artifical Intelligence"
   location         : "Belchertown"
-  employer         : "University of Massachusetts, Amherst"
+  employer         : "University of Massachusetts\n, Amherst"
   uri              : # URL
   email            : "stephenscarano@gmail.com" 
 
