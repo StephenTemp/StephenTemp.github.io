@@ -1,14 +1,16 @@
 ---
 permalink: /
-title: "A Bit About Me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi there! I'm a computer science graduate student whose interests lie at the intersection of deep and traditional machine learning methodologies. A background in both Computer Vision and Responsible AI teaches one to make the best of both.
+I'm originally from Harvard, MA (not the school) and after completing my bachelor's of science at UMass Amherst, I was a grateful recipient of a Bay State Fellowship, which allowed me to continue my education further. \\
+
+In graduate school I took an interest in ironing-out the failings of contemporary machine learning algorithms. While my work in Responsible AI has accentuated and formalized these problems, my prior work in Computer Vision reminds me why these methods were attractive in the first place. There are simply many problems (particularly describing qualitative phenomena) where traditional methods fall flat. The goal, then, is to innovate intentionally for the best of both worlds. 
 
 Research Labs
 ------
