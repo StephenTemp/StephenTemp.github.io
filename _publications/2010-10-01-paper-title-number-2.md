@@ -1,11 +1,12 @@
 ---
-title: "On the Opacity of Twitter Polls"
+title: "Paper Title Number 2"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Employing social media experiments, poll authors' testimonies, and machine learning models, and we identify and explain result discrepancies between mainstream and Twitter polls regarding the 2016 and 2020 U.S. Presidential elections.'
-date: 2023-05-15
-venue: 'ICWSM'
-paperurl: 'https://stephentemp.github.io/publications/'
-citation: [in-progress]
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-Employing social media experiments, poll authors' testimonies, and machine learning models, and we identify and explain result discrepancies between mainstream and Twitter polls regarding the 2016 and 2020 U.S. Presidential elections. Compared to representative mainstream polls, the studied political Twitter polls are disproportionately authored by older males and lean 11\% in favor of candidate Donald Trump. Nearly all of the studied Twitter polls have inconsistencies between the vote counts that are publicly visible, and those visible only privately to the poll authors. Experiments suggest that this gap corresponds to purchased votes, in which case over half of all votes on the Twitter polls on the Presidential elections may be questionable.
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
