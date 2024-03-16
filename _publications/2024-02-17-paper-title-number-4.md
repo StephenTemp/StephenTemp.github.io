@@ -6,7 +6,7 @@ excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-01-01
 venue: 'Journal of Quantitative Description (JQD:DM) and the International AAAI Conference on Web and Social Media (ICWSM)'
 paperurl: 'https://scholar.google.com/citations?user=U3QZIKUAAAAJ&hl=en&oi=ao'
-citation: 'test'
+citation: 'Recently Accepted! Citation coming soon.'
 ---
 
 ![Examples of polls posted on Twitter/X](/images/analyzing-1.png)
