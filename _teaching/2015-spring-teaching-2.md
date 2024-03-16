@@ -8,7 +8,7 @@ date: 2022-09-01
 location: "University of Massachusetts, Amherst"
 ---
 
-**Course Supervisor:** [Professor Przemek Grabowicz](https://przemyslslaw.github.io/). 
+**Course Supervisor:** [Professor Przemyslaw Grabowicz](https://przemyslslaw.github.io/). 
 
 Overview
 =====
