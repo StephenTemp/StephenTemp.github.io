@@ -3,9 +3,9 @@ title: "COMPSCI 690F: Responsible Artificial Intelligence"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Manning College of Information and Computer Sciences"
+venue: "University of Massachusetts, Amherst"
 date: 2022-09-01
-location: "University of Massachusetts, Amherst"
+location: "Amherst, MA"
 ---
 
 **Course Supervisor:** [Professor Przemyslaw Grabowicz](https://przemyslslaw.github.io/). 
