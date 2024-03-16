@@ -3,10 +3,10 @@ title: "Analyzing Support for U.S. Presidential Candidates in Twitter Polls"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024
+date: 2024-01-01
 venue: 'Journal of Quantitative Description (JQD:DM) and the International AAAI Conference on Web and Social Media (ICWSM)'
 paperurl: 'https://scholar.google.com/citations?user=U3QZIKUAAAAJ&hl=en&oi=ao'
-citation: 'https://scholar.google.com/citations?user=U3QZIKUAAAAJ&hl=en&oi=ao'
+citation: 'test'
 ---
 
 ![Examples of polls posted on Twitter/X](/images/analyzing-1.png)

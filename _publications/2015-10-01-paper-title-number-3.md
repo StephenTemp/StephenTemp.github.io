@@ -3,7 +3,7 @@ title: "Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2023
+date: 2023-01-01
 venue: 'International Conference on Computer Vision (ICCV)'
 paperurl: 'https://arxiv.org/abs/2309.08588'
 citation: 'Fabien Delattre, David Dirnfeld, Phat Nguyen, Stephen Scarano, Michael J. Jones, Pedro Miraldo, and Erik Learned-Miller. 2023. Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes'
