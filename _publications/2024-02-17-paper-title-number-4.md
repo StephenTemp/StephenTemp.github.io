@@ -5,7 +5,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024
 venue: 'Journal of Quantitative Description (JQD:DM) and the International AAAI Conference on Web and Social Media (ICWSM)'
-paperurl: '(working on arxiv)'
+paperurl: 'https://scholar.google.com/citations?user=U3QZIKUAAAAJ&hl=en&oi=ao'
 citation: 'https://scholar.google.com/citations?user=U3QZIKUAAAAJ&hl=en&oi=ao'
 ---
 
