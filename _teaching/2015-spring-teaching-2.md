@@ -1,16 +1,18 @@
 ---
 title: "COMPSCI 690F: Responsible Artificial Intelligence"
 collection: teaching
-type: "Workshop"
+type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Manning College of Information and Computer Sciences"
 date: 2022-09-01
 location: "University of Massachusetts, Amherst"
 ---
 
+**Course Supervisor:** [Professor Przemek Grabowicz](https://przemyslslaw.github.io/). 
+
 Overview
 =====
-In a brand new graduate-level course, I crafted assignments, tutored students, and superived student projects centering research questions concerning interpretability, open-world learning, dataset sift, AI fairness, and causal discovery. I was supervised by [Professor Przemek Grabowicz](https://przemyslslaw.github.io/). 
+In a brand new graduate-level course, I crafted assignments, tutored students, and superived student projects centering research questions concerning interpretability, open-world learning, dataset sift, AI fairness, and causal discovery. 
 
 Course Description
 ======
