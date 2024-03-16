@@ -6,7 +6,7 @@ excerpt: 'This paper is about fixing template issue #693.'
 date: 2024
 venue: 'Journal of Quantitative Description (JQD:DM) and the International AAAI Conference on Web and Social Media (ICWSM)'
 paperurl: '(working on arxiv)'
-citation: '(just accepted! Not yet available)'
+citation: 'https://scholar.google.com/citations?user=U3QZIKUAAAAJ&hl=en&oi=ao'
 ---
 
 ![Examples of polls posted on Twitter/X](/images/analyzing-1.png)
@@ -20,4 +20,5 @@ Polls posted on social media have emerged in recent years as an important tool f
 The 2016 and 2020 polls were predominantly crafted by older males and manifested a pronounced bias favoring candidate Donald Trump, in contrast to traditional surveys, which favored Democratic candidates. We further identify and explore the potential reasons for such biases in social polling and discuss their potential repercussions.
 
 ![Figure describing relationship between poll strata and outcomes](/images/analyzing-2.png)
+
 **Figure**: The average fraction of votes for Trump among Twitter polls authored by a user of certain inferred gender, age, and political affiliation (blue) in comparison to the fraction of votes for Trump in respective exit polls (orange). Shaded area marks 95% confidence interval.
