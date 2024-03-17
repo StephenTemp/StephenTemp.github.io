@@ -2,11 +2,11 @@
 title: "Analyzing Support for U.S. Presidential Candidates in Twitter Polls"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'We characterize social polls online and leverage machine learning models to describe the demographics, political leanings, and other characteristics of the users who author and interact with social polls. We study the relationship between social poll results, their attributes, and the characteristics of users interacting with them.'
 date: 2024-01-01
 venue: 'Journal of Quantitative Description (JQD:DM) and the International AAAI Conference on Web and Social Media (ICWSM)'
 paperurl: 'https://scholar.google.com/citations?user=U3QZIKUAAAAJ&hl=en&oi=ao'
-citation: 'Recently Accepted! Citation coming soon.'
+citation: 'Stephen Scarano, Vijayalakshmi Vasudevan, Mattia Samory, JungHwan Yang, and Przemyslaw Grabowicz. 2024. Analyzing Support for U.S. Presidential Candidates in Twitter Polls'
 ---
 
 ![Examples of polls posted on Twitter/X](/images/analyzing-1.png)
