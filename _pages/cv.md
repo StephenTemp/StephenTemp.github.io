@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S.** in Computer Science with Concentration in Data Science, University of Massachusetts Amehrst, 2023
+* **B.S.** in Computer Science with Commonwealth Honors, University of Massachusetts Amehrst, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2023: Machine Learning Engineer
+  * **Employer:** Center for Data Science
+  * **Responsibilities:** _Data Science for the Common Good_ (DS4CG) is a summer program–managed by the University of Massachusetts, Amherst's Center for Data Science–that trains aspiring data scientists to work on real-world problems that benefit the common good. I implemented and produced traditional machine learning and Gaussian processes to forecast property emissions data for the Massachusetts Department of Capital Asset Management and Maintenance (DCAMM).
+  * Supervisors: [Purva Pruthi](https://purvapruthi.github.io), [Erin Bartuska](https://purvapruthi.github.io)
 
 * Fall 2015: Research Assistant
   * Github University
