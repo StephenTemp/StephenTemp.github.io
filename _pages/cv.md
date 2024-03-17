@@ -16,29 +16,28 @@ Education
 
 Work experience
 ======
+
+* 2021-2023: Research Data Scientist
+  * **Employer:** Socially-Intelligent Media & Systems Lab (SIMs)
+  * **Responsibilities:** Principal investigator into research focussed on social media polling and leveraging machine learning and tradsitional statistics to improve election prediction.
+  * Supervisor: [Professor Przemyslaw Grabowicz](https://przemyslslaw.github.io/)
+
 * Summer 2023: Machine Learning Engineer
   * **Employer:** Center for Data Science
   * **Responsibilities:** _Data Science for the Common Good_ (DS4CG) is a summer program–managed by the University of Massachusetts, Amherst's Center for Data Science–that trains aspiring data scientists to work on real-world problems that benefit the common good. I implemented and produced traditional machine learning and Gaussian processes to forecast property emissions data for the Massachusetts Department of Capital Asset Management and Maintenance (DCAMM).
-  * Supervisors: [Purva Pruthi](https://purvapruthi.github.io), [Erin Bartuska](https://purvapruthi.github.io)
+  * **Supervisors**: [Purva Pruthi](https://purvapruthi.github.io), [Erin Bartuska](https://purvapruthi.github.io)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021: Research Assistant
+  * **Employer:** University of Massachusetts, Amherst Computer Vision Lab
+  * **Responsibilities:**  I created a novel, highly-reliable dataset for rotation and translation estimation using optical flow. Our method outperforms state-of-the-art rotation estimation methods using only video data.
+  * Supervisor: [Erik Learned-Miller](https://people.cs.umass.edu/~elm/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Machine Learning:** skill in PyTorch, Tensorflow, Sklearn, vectorization, transformers, AWS
+* **Data Science:** linear regression, Gaussian processes, prediction, neural networks, deep learning, and optimization
+* **Computer Vision:** optical flow, SLAM, CNNs, classification, object detection/segmentation, and 3D-deep learning techniques
+* **Programming:** proficiency in Python, R, C, C#, C++, Java, Javascript, Julia, and Jupyter Notebooks
 
 Publications
 ======
@@ -58,6 +57,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
