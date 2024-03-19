@@ -1,9 +1,7 @@
 ---
 title: "Analyzing Support for U.S. Presidential Candidates in Twitter Polls"
 excerpt: "Energy Consumption Prediction for Climate Planning"
-excerpt: "We characterize social polls online and leverage machine learning models to describe the demographics, political leanings, and other characteristics of the users who author and interact with social polls. We study the relationship between social poll results, their attributes, and the characteristics of users interacting with them.<br/><img src='/images/analyzing-2.png' 
-    width="538" 
-    height="390"/>"
+excerpt: "We characterize social polls online and leverage machine learning models to describe the demographics, political leanings, and other characteristics of the users who author and interact with social polls. We study the relationship between social poll results, their attributes, and the characteristics of users interacting with them.<br/><img src='/images/analyzing-2.png' width="538" height="390"/>"
 collection: portfolio
 ---
 
