@@ -20,7 +20,7 @@ Work experience
 * <ins> 2021-2023: Research Data Scientist </ins>
   * **Employer:** Socially-Intelligent Media & Systems Lab (SIMs)
   * **Responsibilities:** Principal investigator into research focussed on social media polling and leveraging machine learning and tradsitional statistics to improve election prediction.
-  * Supervisor: Professor [Przemyslaw Grabowicz](https://przemyslslaw.github.io/)
+  * **Supervisor**: Professor [Przemyslaw Grabowicz](https://przemyslslaw.github.io/)
 
 * <ins> Summer 2023: Machine Learning Engineer </ins>
   * **Employer:** Center for Data Science
