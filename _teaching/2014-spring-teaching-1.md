@@ -12,7 +12,7 @@ location: "Amherst, MA"
 
 Overview
 ======
-I tutored students, lead lab meetings, and edited assignments for an introductory systems course. 
+I tutored students, lead lab meetings, and edited assignments for an introductory programming course. 
 
 Course Description
 ======
