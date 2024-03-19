@@ -1,14 +1,14 @@
 ---
-title: "COMPSCI 230: Introduction to Systems"
+title: "COMPSCI 121: Introduction to Problem Solving with Computers"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Massachusetts, Amherst"
-date: 2021-02-01
+date: 2022-02-01
 location: "Amherst, MA"
 ---
 
-**Course Supervisor:** Professor [Joe Chiu](https://www.cics.umass.edu/people/chiu-joe). 
+**Course Supervisor:** Professor [James Davilia](https://people.cs.umass.edu/~jaimedavila/?_gl=1*7suv6v*_gcl_au*NzUxOTUwMzAwLjE3MDQ5MDA1NzY.*_ga*OTg3MTY4ODY3LjE3MDQ5MDA1NzY.*_ga_21RLS0L7EB*MTcxMDgxMzYyMy4xNC4wLjE3MTA4MTM2MjMuMC4wLjA.). 
 
 Overview
 ======
@@ -16,6 +16,5 @@ I tutored students, lead lab meetings, and edited assignments for an introductor
 
 Course Description
 ======
-Large-scale software systems like Google - deployed over a worldwide network of hundreds of thousands of computers - have become a part of our lives. These are systems success stories - they are reliable, available ("up" nearly all the time), handle an unbelievable amount of load from users around the world, yet provide virtually instantaneous results. On the other hand, many computer systems don't perform nearly as well as Google - hence the now-cliché "the system is down." In this class, we study the scientific principles behind the construction of high-performance, scalable systems. The course begins with a discussion of the relevant features of modern architectures, and moves up the stack from there to operating system services such as programming language run-time systems, concurrency, and synchronization, with a focus on key operating system features, I/O and networking, and distributed services. This course can be used as a "core" course for students in the COMPSCI minor.
+In addition to basic programming constructs such as looping, conditions, arrays, file handling, and methods, much attention is given to the Java object model as well as to Java's event model and its relation to graphical user interfaces.
 
-Note: this description, while the official one, no longer captures precisely the content of the course as currently offered. We are in the process of updating the official description, which requires going through some bureaucratic processes.  Meanwhile, the current content focus is on: (1) data representation, computer organization, and assembly; (2) the Unix/Linux concepts of processes, programs, and threads; and (3) communication between processes using pipes and networking.
