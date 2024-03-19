@@ -25,7 +25,7 @@ Work experience
 * <ins> Summer 2023: Machine Learning Engineer </ins>
   * **Employer:** Center for Data Science
   * **Responsibilities:** _Data Science for the Common Good_ (DS4CG) is a summer program–managed by the University of Massachusetts, Amherst's Center for Data Science–that trains aspiring data scientists to work on real-world problems that benefit the common good. I implemented and produced traditional machine learning and Gaussian processes to forecast property emissions data for the Massachusetts Department of Capital Asset Management and Maintenance (DCAMM).
-  * **Supervisors**: [Purva Pruthi](https://purvapruthi.github.io), [Erin Bartuska](https://purvapruthi.github.io)
+  * **Supervisors**: [Purva Pruthi](https://purvapruthi.github.io), [Erin Bartuska](https://ekbartus.carrd.co)
 
 * <ins> 2021: Research Assistant </ins>
   * **Employer:** University of Massachusetts, Amherst Computer Vision Lab
