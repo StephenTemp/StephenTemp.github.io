@@ -9,7 +9,7 @@ paperurl: 'https://arxiv.org/abs/2405.11146'
 citation: '(DOI and citation coming soon)'
 ---
 
-![Examples of polls posted on Twitter/X](/images/icwsm-tweets.pdf)
+![Examples of polls posted on Twitter/X](/images/icwsm-tweets.pdf) \\
 **Figure:** Moving average of the percent of votes for Donald Trump in Twitter polls published over the course of 2020. (Right) Zooming into the period of 3 weeks around the election days shows that the bias towards Trump diminished right after the election days, marked with the vertical red bars. The election outcome (orange line) is shown for comparison
 
 Abstract
