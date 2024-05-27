@@ -2,7 +2,7 @@
 title: "Election Polls on Social Media: Prevalence, Biases, and Voter Fraud Beliefs"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Expected publication concerning voter fraud beliefs and lack of transperency in social media systems.'
+excerpt: 'We leverage demographic inference and statistical analysis, finding that Twitter polls are disproportionately authored by older males, exhibit a large bias towards candidate Donald Trump relative to representative mainstream polls, and contain inconsistencies between public vote counts and those privately visible to poll authors.'
 date: 2024-09-01
 venue: 'International AAAI Conference on Web and Social Media (ICWSM)'
 paperurl: 'https://arxiv.org/abs/2405.11146'
