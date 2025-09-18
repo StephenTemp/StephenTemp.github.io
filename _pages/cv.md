@@ -9,47 +9,53 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* **M.S.** in Computer Science with Concentration in Data Science, University of Massachusetts Amehrst, 2023
-* **B.S.** in Computer Science with Commonwealth Honors, University of Massachusetts Amehrst, 2021
+Stephen Scarano
+Noblis Autonomy Lab
+1011 Fairmont St
+Washington D.C, 20001
+978-340-3337
+stephenscarano@gmail.com
 
-Work experience
-======
+### Education
+University of Massachusetts, Amherst
+M.S in Computer Science. GPA 3.9
+University of Massachusetts, Amherst
+B.S in Computer Science. GPA 3.8
 
-* <ins> 2021-2023: Research Data Scientist </ins>
-  * **Employer:** Socially-Intelligent Media & Systems Lab (SIMs)
-  * **Responsibilities:** Principal investigator into research focussed on social media polling and leveraging machine learning and tradsitional statistics to improve election prediction.
-  * **Supervisor**: Professor [Przemyslaw Grabowicz](https://przemyslslaw.github.io/)
+### Research Experience
+- **Noblis Autonomy Lab**
+Advisors: Mohammad Goli, Riley White 
+Research Summary: Noblis autonomy lab coordinates of autonomous systems, and my work leverages computer vision to facilitate real-time robotics solutions.
+Neuromorphic computing for vision applications in space-based situational awareness and roadside conflict prediction settings. Hazard mapping for lunar navigation of autonomous systems 
+Package localization and handoff between quadcopter and rover systems 
 
-* <ins> Summer 2023: Machine Learning Engineer </ins>
-  * **Employer:** Center for Data Science
-  * **Responsibilities:** _Data Science for the Common Good_ (DS4CG) is a summer program–managed by the University of Massachusetts, Amherst's Center for Data Science–that trains aspiring data scientists to work on real-world problems that benefit the common good. I implemented and produced traditional machine learning and Gaussian processes to forecast property emissions data for the Massachusetts Department of Capital Asset Management and Maintenance (DCAMM).
-  * **Supervisors**: [Purva Pruthi](https://purvapruthi.github.io), [Erin Bartuska](https://ekbartus.carrd.co)
+- **Socially-Intelligent Media & Systems Lab**
+Advisors: Przemyslaw Grabowicz, Mattia Samory, Kaicheng Yang
+Research Summary: Crawling of large-scale Twitter data for signal processing, leveraging machine learning tools and statistical poststratification for election prediction.  
 
-* <ins> 2021: Research Assistant </ins>
-  * **Employer:** University of Massachusetts, Amherst Computer Vision Lab
-  * **Responsibilities:**  I created a novel, highly-reliable dataset for rotation and translation estimation using optical flow. Our method outperforms state-of-the-art rotation estimation methods using only video data.
-  * **Supervisor**: Professor [Erik Learned-Miller](https://people.cs.umass.edu/~elm/)
-  
-Skills
-======
-* **Machine Learning:** skill in PyTorch, Tensorflow, Sklearn, vectorization, transformers, AWS
-* **Data Science:** linear regression, Gaussian processes, prediction, neural networks, deep learning, and optimization
-* **Computer Vision:** optical flow, SLAM, CNNs, classification, object detection/segmentation, and 3D-deep learning techniques
-* **Programming:** proficiency in Python, R, C, C#, C++, Java, Javascript, Julia, and Jupyter Notebooks
+- **University of Massachusetts Computer Vision Lab**
+Advisor: Erik Learned-Miller 
+Research Summary: Egomotion estimation using hough-transform over optical flow vectors, exceeding accuracy and speed of state-of-the-art in crowded scenes. 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+### Publications
+- Stephen Scarano, Anand Seshadri. Intersection Safety Systems: Classification and Prediction Across Different Road Users and Conditions. Transportation Research Board. Submitted.
+Scarano, S. et al 2025. Election Polls on Social Media: Prevalence, Biases, and Voter Fraud Beliefs. _Proceedings of the International AAAI Conference on Web and Social Media_. https://ojs.aaai.org/index.php/ICWSM/article/view/35900  
+
+- Scarano, S. et al. 2024. Analyzing Support for U.S. Presidential Candidates in Twitter Polls. _Journal of Quantitative Description: Digital Media_ . 4, (May 2024). DOI:https://doi.org/10.51685/jqd.2024.icwsm.4. https://journalqd.org/article/view/5897
+
+- Fabien Delattre, David Dirnfeld, Phat Nguyen, Stephen Scarano, Michael J. Jones, Pedro Miraldo, and Erik Learned-Miller. 2023. Robust Frame-to-Frame Camera Rotation Estimation in Crowded Scenes. _International Conference on Computer Vision_. https://arxiv.org/abs/2309.08588
+
+### Awards and Fellowships
+- **Best Paper Finalist** - International AAAI Conference on Web and Social Media (ICWSM 2025) for “Analyzing Support for U.S. Presidential Candidates in Twitter Polls”
+- **Data Science for the Common Good Fellowship (2023)** - Center for Data Science
+- **Bay State Fellowship** - University of Massachusetts, Amherst (2021)
+
+### Teaching Experience 
+- **Responsible AI**
+Teaching Assistant (2023)
+Summary: In this course, students will learn techniques for robust model evaluation, model selection, causal discovery, explainable and fair artificial intelligence, and interpretable models. In addition, students will reason about representativeness, transparency, and legal aspects of techno-social systems. The course will review both cutting-edge research and relevant portions of recent open-access textbooks. Coursework includes reading recent research papers, programming assignments, and a final group project. After completing the course, students should be able to develop, investigate, evaluate, and deploy artificial intelligence systems more responsibly.
+
+- **Introduction to Computation**
+Teaching Assistant (2022)
+Summary: In addition to basic programming constructs such as looping, conditions, arrays, file handling, and methods, much attention is given to the Java object model as well as to Java’s event model and its relation to graphical user interfaces.
 
