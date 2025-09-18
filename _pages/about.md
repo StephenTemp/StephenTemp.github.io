@@ -11,7 +11,9 @@ I’m Stephen Scarano, an MS in Computer Science (Data Science) and [Bay State F
 
 #### Selected papers:
 • ICWSM (Twitter/X polls; bias & post-stratification) — [paper](https://ojs.aaai.org/index.php/ICWSM/article/view/35900) **[Finalist for Best Paper]**
+
 • ICCV’23 (optical flow / rotation in crowded scenes) — [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Delattre_Robust_Frame-to-Frame_Camera_Rotation_Estimation_in_Crowded_Scenes_ICCV_2023_paper.pdf) 
+
 • JQD:DM (Twitter/X polls; bias & post-stratification) — [paper](https://journalqd.org/article/view/5897)
 
 
