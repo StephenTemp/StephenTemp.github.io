@@ -6,9 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I'm Stephen Scarano, a postgrad (M.S) of Computer Science and Bay State Fellow from the University of Massachusettes, Amherst. My research interests leverage **computer vision** and **signal processing** for robust perception of the outside world with applications spanning robotics, neuromorphic tracking, and online polling. I work at the [Noblis Autonomy Lab](https://noblis.org/what-we-do/capabilities/autonomy/) creating vision solitions for Noblis R&D, U.S DOT, and NASA. I'm currently applying for Phds this Fall!
-
+ 
 I’m Stephen Scarano, an MS in Computer Science (Data Science) and [Bay State Fellow](https://www.cics.umass.edu/content/bay-state-scholarship-program) from UMass Amherst. I build learning systems that stay reliable when data is messy, biased, or asynchronous—from social-media polls to event-camera streams. My work connects measurement → perception → reasoning: debiasing online polling via post-stratification, fast optical-flow/egomotion for **robust perception**, and **neuromorphic pipelines** for low-latency object tracking. I’m currently a research engineer at the Noblis Autonomy Lab, supporting R&D for U.S. DOT and NASA. I’m applying to PhD programs **(Fall 2026 entry)** to pursue robust machine learning and neuromorphic approaches to trustworthy ML.
 
 #### Selected papers:
