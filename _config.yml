@@ -24,15 +24,15 @@ author:
   avatar           : "profile.jpeg"
   name             : "Stephen Scarano"
   pronouns         : # example: "she/her"  
-  bio              : "Data Scientist (M.S) with Interests in Artifical Intelligence"
-  location         : "Belchertown"
-  employer         : "University of Mass., Amherst"
+  bio              : "Computer Vision Engineer (M.S) with Interests in Artifical Intelligence"
+  location         : "Washington, D.C"
+  employer         : "Noblis"
   uri              : # URL
   email            : "stephenscarano@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AILGF5X8GfCbuayxgUnd7NNbLoBdcHUrw3YQLV4S7izCCXiVRciGEERa-gyFQCoul6HdUKIXSgEaKG_0MmaPkA&user=U3QZIKUAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=QbbD_0gAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -51,7 +51,7 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : "stephen-scarano"
+  goodreads        : # "stephen-scarano"
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username

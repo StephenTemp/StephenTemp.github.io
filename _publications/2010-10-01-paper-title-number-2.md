@@ -5,8 +5,8 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'We leverage demographic inference and statistical analysis, finding that Twitter polls are disproportionately authored by older males, exhibit a large bias towards candidate Donald Trump relative to representative mainstream polls, and contain inconsistencies between public vote counts and those privately visible to poll authors.'
 date: 2024-09-01
 venue: 'International AAAI Conference on Web and Social Media (ICWSM)'
-paperurl: 'https://arxiv.org/abs/2405.11146'
-citation: '(DOI and citation coming soon)'
+paperurl: 'https://ojs.aaai.org/index.php/ICWSM/article/view/35900'
+citation: 'Scarano, S., Vasudevan, V., Samory, M., Yang, K.-C., Yang, J., & Grabowicz, P. A. (2025). Election Polls on Social Media: Prevalence, Biases, and Voter Fraud Beliefs. Proceedings of the International AAAI Conference on Web and Social Media, 19(1), 1771-1785. https://doi.org/10.1609/icwsm.v19i1.35900.
 ---
 
 ![Examples of polls posted on Twitter/X](/images/icwsm-tweets.pdf) \\

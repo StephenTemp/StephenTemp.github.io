@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Stephen Scarano, a postgrad (M.S) of Computer Science and Bay State Fellow from the University of Massachusettes, Amherst. My interests span both **traditional** and **deep machine learning** algorithms, **computer vision**, and **responsible AI**.
+I'm Stephen Scarano, a postgrad (M.S) of Computer Science and Bay State Fellow from the University of Massachusettes, Amherst. My research interests leverage **computer vision** and **signal processing** for robust perception of the outside world with applications spanning robotics, neurmorphic tracking, and online polling. I work at the [Noblis Autonomy Lab](https://noblis.org/what-we-do/capabilities/autonomy/) creating vision solitions for internal R&D, U.S DOT, and NASA. I'm currently applying for Phds this Fall!
 
 Background
 ======
@@ -17,6 +17,6 @@ In graduate school I took an interest in ironing-out the failings of contemporar
 
 Education
 ======
-I completed both my Bachelor's and Master's degrees in Computer Science at the University of Massachusetts, Amherst.
+I completed both my Master's degrees and Bachelor's in Computer Science at the University of Massachusetts, Amherst.
 
 ![Vista of the University of Mass, Amherst](/images/umass_amherst.jpeg)
