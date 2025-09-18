@@ -11,31 +11,32 @@ redirect_from:
 
 Stephen Scarano
 Noblis Autonomy Lab
+
 1011 Fairmont St
 Washington D.C, 20001
+
 978-340-3337
+
 stephenscarano@gmail.com
 
 ### Education
-University of Massachusetts, Amherst
-M.S in Computer Science. GPA 3.9
-University of Massachusetts, Amherst
-B.S in Computer Science. GPA 3.8
+- **M.S** in Computer Science. GPA 3.9 – _University of Massachusetts, Amherst_
+- **B.S** in Computer Science. GPA 3.8 – _University of Massachusetts, Amherst_
 
 ### Research Experience
 - **Noblis Autonomy Lab**
-Advisors: Mohammad Goli, Riley White 
-Research Summary: Noblis autonomy lab coordinates of autonomous systems, and my work leverages computer vision to facilitate real-time robotics solutions.
-Neuromorphic computing for vision applications in space-based situational awareness and roadside conflict prediction settings. Hazard mapping for lunar navigation of autonomous systems 
-Package localization and handoff between quadcopter and rover systems 
+  - Advisors: Mohammad Goli, Riley White 
+  - Research Summary: Noblis autonomy lab coordinates of autonomous systems, and my work leverages computer vision to facilitate real-time robotics solutions.
+  -   Neuromorphic computing for vision applications in space-based situational awareness and roadside conflict prediction settings. Hazard mapping for lunar navigation of autonomous systems 
+  -   Package localization and handoff between quadcopter and rover systems 
 
 - **Socially-Intelligent Media & Systems Lab**
-Advisors: Przemyslaw Grabowicz, Mattia Samory, Kaicheng Yang
-Research Summary: Crawling of large-scale Twitter data for signal processing, leveraging machine learning tools and statistical poststratification for election prediction.  
+  - Advisors: Przemyslaw Grabowicz, Mattia Samory, Kaicheng Yang
+  - Research Summary: Crawling of large-scale Twitter data for signal processing, leveraging machine learning tools and statistical poststratification for election prediction.  
 
 - **University of Massachusetts Computer Vision Lab**
-Advisor: Erik Learned-Miller 
-Research Summary: Egomotion estimation using hough-transform over optical flow vectors, exceeding accuracy and speed of state-of-the-art in crowded scenes. 
+  - Advisor: Erik Learned-Miller 
+  - Research Summary: Egomotion estimation using hough-transform over optical flow vectors, exceeding accuracy and speed of state-of-the-art in crowded scenes. 
 
 ### Publications
 - Stephen Scarano, Anand Seshadri. Intersection Safety Systems: Classification and Prediction Across Different Road Users and Conditions. Transportation Research Board. Submitted.
