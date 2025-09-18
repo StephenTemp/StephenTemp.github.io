@@ -7,16 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm Stephen Scarano, a postgrad (M.S) of Computer Science and Bay State Fellow from the University of Massachusettes, Amherst. My research interests leverage **computer vision** and **signal processing** for robust perception of the outside world with applications spanning robotics, neurmorphic tracking, and online polling. I work at the [Noblis Autonomy Lab](https://noblis.org/what-we-do/capabilities/autonomy/) creating vision solitions for internal R&D, U.S DOT, and NASA. I'm currently applying for Phds this Fall!
+I'm Stephen Scarano, a postgrad (M.S) of Computer Science and Bay State Fellow from the University of Massachusettes, Amherst. My research interests leverage **computer vision** and **signal processing** for robust perception of the outside world with applications spanning robotics, neuromorphic tracking, and online polling. I work at the [Noblis Autonomy Lab](https://noblis.org/what-we-do/capabilities/autonomy/) creating vision solitions for Noblis R&D, U.S DOT, and NASA. I'm currently applying for Phds this Fall!
 
-Background
-======
-I'm originally from Harvard, MA (not the school) and after completing my bachelor's of science at UMass Amherst, I was a grateful recipient of a [Bay State Fellowship](https://www.cics.umass.edu/content/bay-state-scholarship-program), which allowed me to continue my education further. 
+I’m Stephen Scarano, an MS in Computer Science (Data Science) and [Bay State Fellow](https://www.cics.umass.edu/content/bay-state-scholarship-program) from UMass Amherst. I build learning systems that stay reliable when data is messy, biased, or asynchronous—from social-media polls to event-camera streams. My work connects measurement → perception → reasoning: debiasing online polling via post-stratification, fast optical-flow/egomotion for **robust perception**, and **neuromorphic pipelines** for low-latency object tracking. I’m currently a research engineer at the Noblis Autonomy Lab, supporting R&D for U.S. DOT and NASA. I’m applying to PhD programs **(Fall 2026 entry)** to pursue robust machine learning and neuromorphic approaches to trustworthy ML.
 
-In graduate school I took an interest in ironing-out the failings of contemporary machine learning algorithms. While my work in Responsible AI has accentuated and formalized these problems, my prior work in computer vision reminds me *why these methods were attractive in the first place*. There are simply many problems (particularly describing *qualitative* phenomena) where traditional methods fall flat. The goal, then, is to innovate intentionally for the best of both worlds. 
+#### Selected papers:
+• ICWSM (Twitter/X polls; bias & post-stratification) — [paper](https://ojs.aaai.org/index.php/ICWSM/article/view/35900) **[Finalist for Best Paper]**
+• ICCV’23 (optical flow / rotation in crowded scenes) — [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Delattre_Robust_Frame-to-Frame_Camera_Rotation_Estimation_in_Crowded_Scenes_ICCV_2023_paper.pdf) 
+• JQD:DM (Twitter/X polls; bias & post-stratification) — [paper](https://journalqd.org/article/view/5897)
 
-Education
-======
-I completed both my Master's degrees and Bachelor's in Computer Science at the University of Massachusetts, Amherst.
+
 
 ![Vista of the University of Mass, Amherst](/images/umass_amherst.jpeg)
