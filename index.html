@@ -52,22 +52,22 @@
           </tbody></table>
           <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
-<tr onmouseout="radmesh_stop()" onmouseover="radmesh_start()" bgcolor="#ffffd0">
+<tr onmouseout="ISS_stop()" onmouseover="ISS_start()" bgcolor="#ffffd0">
   <td style="padding:16px;width:20%;vertical-align:middle">
     <div class="one">
-      <div class="two" id='nerfcasting_image'><video  width=100% muted autoplay loop>
+      <div class="two" id='ISS'><video  width=100% muted autoplay loop>
       <source src="images/ISS.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video></div>
       <img src='images/ISS.jpg' width=100%>
     </div>
     <script type="text/javascript">
-      function nerfcasting_start() {
-        document.getElementById('nerfcasting_image').style.opacity = "1";
+      function ISS_start() {
+        document.getElementById('ISS').style.opacity = "1";
       }
 
-      function nerfcasting_stop() {
-        document.getElementById('nerfcasting_image').style.opacity = "0";
+      function ISS_stop() {
+        document.getElementById('ISS').style.opacity = "0";
       }
       nerfcasting_stop()
     </script>
